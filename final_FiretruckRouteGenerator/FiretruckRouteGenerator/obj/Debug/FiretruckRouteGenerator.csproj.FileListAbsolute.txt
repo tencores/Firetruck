@@ -1,0 +1,53 @@
+C:\Users\diman\Dropbox\cad\softdev\FiretruckRouteGenerator\FiretruckRouteGenerator\bin\Debug\FiretruckRouteGenerator.exe.config
+C:\Users\diman\Dropbox\cad\softdev\FiretruckRouteGenerator\FiretruckRouteGenerator\bin\Debug\FiretruckRouteGenerator.exe
+C:\Users\diman\Dropbox\cad\softdev\FiretruckRouteGenerator\FiretruckRouteGenerator\bin\Debug\FiretruckRouteGenerator.pdb
+C:\Users\diman\Dropbox\cad\softdev\FiretruckRouteGenerator\FiretruckRouteGenerator\obj\Debug\FiretruckRouteGenerator.csprojAssemblyReference.cache
+C:\Users\diman\Dropbox\cad\softdev\FiretruckRouteGenerator\FiretruckRouteGenerator\obj\Debug\MainWindow.g.cs
+C:\Users\diman\Dropbox\cad\softdev\FiretruckRouteGenerator\FiretruckRouteGenerator\obj\Debug\App.g.cs
+C:\Users\diman\Dropbox\cad\softdev\FiretruckRouteGenerator\FiretruckRouteGenerator\obj\Debug\FiretruckRouteGenerator_MarkupCompile.cache
+C:\Users\diman\Dropbox\cad\softdev\FiretruckRouteGenerator\FiretruckRouteGenerator\obj\Debug\MainWindow.baml
+C:\Users\diman\Dropbox\cad\softdev\FiretruckRouteGenerator\FiretruckRouteGenerator\obj\Debug\FiretruckRouteGenerator.g.resources
+C:\Users\diman\Dropbox\cad\softdev\FiretruckRouteGenerator\FiretruckRouteGenerator\obj\Debug\FiretruckRouteGenerator.Properties.Resources.resources
+C:\Users\diman\Dropbox\cad\softdev\FiretruckRouteGenerator\FiretruckRouteGenerator\obj\Debug\FiretruckRouteGenerator.csproj.GenerateResource.cache
+C:\Users\diman\Dropbox\cad\softdev\FiretruckRouteGenerator\FiretruckRouteGenerator\obj\Debug\FiretruckRouteGenerator.exe
+C:\Users\diman\Dropbox\cad\softdev\FiretruckRouteGenerator\FiretruckRouteGenerator\obj\Debug\FiretruckRouteGenerator.pdb
+C:\Users\diman\Dropbox\cad\softdev\FiretruckRouteGenerator\FiretruckRouteGenerator\bin\Debug\Resources\Config.txt
+C:\Users\diman\Dropbox\cad\softdev\FiretruckRouteGenerator\FiretruckRouteGenerator\obj\Debug\FiretruckRouteGenerator_Content.g.cs
+C:\Users\diman\Dropbox\cad\softdev\FiretruckRouteGenerator\FiretruckRouteGenerator\bin\Debug\Resources\Config2.txt
+C:\Users\diman\Dropbox\cad\softdev\FiretruckRouteGenerator\FiretruckRouteGenerator\bin\Debug\Resources\InvalidConfig.txt
+C:\Users\yangm\Desktop\final_FiretruckRouteGenerator\final_FiretruckRouteGenerator\FiretruckRouteGenerator\bin\Debug\Resources\Config.txt
+C:\Users\yangm\Desktop\final_FiretruckRouteGenerator\final_FiretruckRouteGenerator\FiretruckRouteGenerator\bin\Debug\Resources\Config2.txt
+C:\Users\yangm\Desktop\final_FiretruckRouteGenerator\final_FiretruckRouteGenerator\FiretruckRouteGenerator\bin\Debug\Resources\InvalidConfig.txt
+C:\Users\yangm\Desktop\final_FiretruckRouteGenerator\final_FiretruckRouteGenerator\FiretruckRouteGenerator\bin\Debug\FiretruckRouteGenerator.exe.config
+C:\Users\yangm\Desktop\final_FiretruckRouteGenerator\final_FiretruckRouteGenerator\FiretruckRouteGenerator\bin\Debug\FiretruckRouteGenerator.exe
+C:\Users\yangm\Desktop\final_FiretruckRouteGenerator\final_FiretruckRouteGenerator\FiretruckRouteGenerator\bin\Debug\FiretruckRouteGenerator.pdb
+C:\Users\yangm\Desktop\final_FiretruckRouteGenerator\final_FiretruckRouteGenerator\FiretruckRouteGenerator\obj\Debug\FiretruckRouteGenerator.csprojAssemblyReference.cache
+C:\Users\yangm\Desktop\final_FiretruckRouteGenerator\final_FiretruckRouteGenerator\FiretruckRouteGenerator\obj\Debug\MainWindow.baml
+C:\Users\yangm\Desktop\final_FiretruckRouteGenerator\final_FiretruckRouteGenerator\FiretruckRouteGenerator\obj\Debug\MainWindow.g.cs
+C:\Users\yangm\Desktop\final_FiretruckRouteGenerator\final_FiretruckRouteGenerator\FiretruckRouteGenerator\obj\Debug\App.g.cs
+C:\Users\yangm\Desktop\final_FiretruckRouteGenerator\final_FiretruckRouteGenerator\FiretruckRouteGenerator\obj\Debug\FiretruckRouteGenerator_Content.g.cs
+C:\Users\yangm\Desktop\final_FiretruckRouteGenerator\final_FiretruckRouteGenerator\FiretruckRouteGenerator\obj\Debug\FiretruckRouteGenerator_MarkupCompile.cache
+C:\Users\yangm\Desktop\final_FiretruckRouteGenerator\final_FiretruckRouteGenerator\FiretruckRouteGenerator\obj\Debug\FiretruckRouteGenerator.g.resources
+C:\Users\yangm\Desktop\final_FiretruckRouteGenerator\final_FiretruckRouteGenerator\FiretruckRouteGenerator\obj\Debug\FiretruckRouteGenerator.Properties.Resources.resources
+C:\Users\yangm\Desktop\final_FiretruckRouteGenerator\final_FiretruckRouteGenerator\FiretruckRouteGenerator\obj\Debug\FiretruckRouteGenerator.csproj.GenerateResource.cache
+C:\Users\yangm\Desktop\final_FiretruckRouteGenerator\final_FiretruckRouteGenerator\FiretruckRouteGenerator\obj\Debug\FiretruckRouteGenerator.csproj.CoreCompileInputs.cache
+C:\Users\yangm\Desktop\final_FiretruckRouteGenerator\final_FiretruckRouteGenerator\FiretruckRouteGenerator\obj\Debug\FiretruckRouteGenerator.exe
+C:\Users\yangm\Desktop\final_FiretruckRouteGenerator\final_FiretruckRouteGenerator\FiretruckRouteGenerator\obj\Debug\FiretruckRouteGenerator.pdb
+C:\Users\yangm\personal documents\personal\conestoga study\ConestogaTerm1\c#\assignments for c# class\final、\final_FiretruckRouteGenerator\final_FiretruckRouteGenerator\FiretruckRouteGenerator\bin\Debug\Resources\Config.txt
+C:\Users\yangm\personal documents\personal\conestoga study\ConestogaTerm1\c#\assignments for c# class\final、\final_FiretruckRouteGenerator\final_FiretruckRouteGenerator\FiretruckRouteGenerator\bin\Debug\Resources\Config2.txt
+C:\Users\yangm\personal documents\personal\conestoga study\ConestogaTerm1\c#\assignments for c# class\final、\final_FiretruckRouteGenerator\final_FiretruckRouteGenerator\FiretruckRouteGenerator\bin\Debug\Resources\InvalidConfig.txt
+C:\Users\yangm\personal documents\personal\conestoga study\ConestogaTerm1\c#\assignments for c# class\final、\final_FiretruckRouteGenerator\final_FiretruckRouteGenerator\FiretruckRouteGenerator\bin\Debug\FiretruckRouteGenerator.exe.config
+C:\Users\yangm\personal documents\personal\conestoga study\ConestogaTerm1\c#\assignments for c# class\final、\final_FiretruckRouteGenerator\final_FiretruckRouteGenerator\FiretruckRouteGenerator\bin\Debug\FiretruckRouteGenerator.exe
+C:\Users\yangm\personal documents\personal\conestoga study\ConestogaTerm1\c#\assignments for c# class\final、\final_FiretruckRouteGenerator\final_FiretruckRouteGenerator\FiretruckRouteGenerator\bin\Debug\FiretruckRouteGenerator.pdb
+C:\Users\yangm\personal documents\personal\conestoga study\ConestogaTerm1\c#\assignments for c# class\final、\final_FiretruckRouteGenerator\final_FiretruckRouteGenerator\FiretruckRouteGenerator\obj\Debug\FiretruckRouteGenerator.csprojAssemblyReference.cache
+C:\Users\yangm\personal documents\personal\conestoga study\ConestogaTerm1\c#\assignments for c# class\final、\final_FiretruckRouteGenerator\final_FiretruckRouteGenerator\FiretruckRouteGenerator\obj\Debug\MainWindow.baml
+C:\Users\yangm\personal documents\personal\conestoga study\ConestogaTerm1\c#\assignments for c# class\final、\final_FiretruckRouteGenerator\final_FiretruckRouteGenerator\FiretruckRouteGenerator\obj\Debug\MainWindow.g.cs
+C:\Users\yangm\personal documents\personal\conestoga study\ConestogaTerm1\c#\assignments for c# class\final、\final_FiretruckRouteGenerator\final_FiretruckRouteGenerator\FiretruckRouteGenerator\obj\Debug\App.g.cs
+C:\Users\yangm\personal documents\personal\conestoga study\ConestogaTerm1\c#\assignments for c# class\final、\final_FiretruckRouteGenerator\final_FiretruckRouteGenerator\FiretruckRouteGenerator\obj\Debug\FiretruckRouteGenerator_Content.g.cs
+C:\Users\yangm\personal documents\personal\conestoga study\ConestogaTerm1\c#\assignments for c# class\final、\final_FiretruckRouteGenerator\final_FiretruckRouteGenerator\FiretruckRouteGenerator\obj\Debug\FiretruckRouteGenerator_MarkupCompile.cache
+C:\Users\yangm\personal documents\personal\conestoga study\ConestogaTerm1\c#\assignments for c# class\final、\final_FiretruckRouteGenerator\final_FiretruckRouteGenerator\FiretruckRouteGenerator\obj\Debug\FiretruckRouteGenerator.g.resources
+C:\Users\yangm\personal documents\personal\conestoga study\ConestogaTerm1\c#\assignments for c# class\final、\final_FiretruckRouteGenerator\final_FiretruckRouteGenerator\FiretruckRouteGenerator\obj\Debug\FiretruckRouteGenerator.Properties.Resources.resources
+C:\Users\yangm\personal documents\personal\conestoga study\ConestogaTerm1\c#\assignments for c# class\final、\final_FiretruckRouteGenerator\final_FiretruckRouteGenerator\FiretruckRouteGenerator\obj\Debug\FiretruckRouteGenerator.csproj.GenerateResource.cache
+C:\Users\yangm\personal documents\personal\conestoga study\ConestogaTerm1\c#\assignments for c# class\final、\final_FiretruckRouteGenerator\final_FiretruckRouteGenerator\FiretruckRouteGenerator\obj\Debug\FiretruckRouteGenerator.csproj.CoreCompileInputs.cache
+C:\Users\yangm\personal documents\personal\conestoga study\ConestogaTerm1\c#\assignments for c# class\final、\final_FiretruckRouteGenerator\final_FiretruckRouteGenerator\FiretruckRouteGenerator\obj\Debug\FiretruckRouteGenerator.exe
+C:\Users\yangm\personal documents\personal\conestoga study\ConestogaTerm1\c#\assignments for c# class\final、\final_FiretruckRouteGenerator\final_FiretruckRouteGenerator\FiretruckRouteGenerator\obj\Debug\FiretruckRouteGenerator.pdb
